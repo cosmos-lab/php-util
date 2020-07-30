@@ -1,2 +1,2 @@
 # php-util
-Collection of independent PHP utility classes
+Collection of PHP utility classes
